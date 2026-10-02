@@ -1,0 +1,30 @@
+[
+    {
+        "title": "going to college at 12 pm",
+        "completed": true,
+        "priority": "Medium",
+        "due_date": "",
+        "tags": []
+    },
+    {
+        "title": "going to meet",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "",
+        "tags": []
+    },
+    {
+        "title": "make a food",
+        "completed": false,
+        "priority": "Medium",
+        "due_date": "",
+        "tags": []
+    },
+    {
+        "title": "going college",
+        "completed": false,
+        "priority": "High",
+        "due_date": "03-09-2026",
+        "tags": []
+    }
+]
